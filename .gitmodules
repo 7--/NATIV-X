@@ -1,3 +1,6 @@
 [submodule "SolanaKt"]
 	path = SolanaKt
 	url = https://github.com/ajamaica/Solana.kt.git
+[submodule "SolanaKT"]
+	path = SolanaKT
+	url = git@github.com:ajamaica/SolanaKT.git
