@@ -2,7 +2,7 @@
 include ':app'
 include ':SolanaNFT'
 include ':solana'
-project(":solana").projectDir = new File("./SolanaKt/Solana")
+project(":solana").projectDir = new File("./SolanaKT/solana")
 include ':ChainSupport'
 include ':EthereumNFT'
 include ':HarmonyOneNFT'
