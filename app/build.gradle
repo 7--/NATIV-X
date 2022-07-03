@@ -56,6 +56,8 @@ dependencies {
     implementation project(path: ':EthereumNFT')
     implementation project(path: ':HarmonyOneNFT')
 
+    implementation 'com.solanamobile:mobile-wallet-adapter-clientlib:0.1.2'
+    implementation 'com.solanamobile:mobile-wallet-adapter-common:0.1.2'
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.1'
     implementation "org.jetbrains.kotlin:kotlin-reflect:$kotlin_version"
 
